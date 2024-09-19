@@ -20,4 +20,4 @@ In your solution you must provide the following in your Github link account:
 
 ### **UML Class Diagram:**
 
-![UML Class Diagram](https://github.com/user-attachments/assets/57953e67-7c05-404f-94fc-756d3dbb613a)
+![UML Class Diagram](https://github.com/user-attachments/assets/2567bee1-3eac-460f-867b-ec1ea4e61440)
