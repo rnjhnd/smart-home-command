@@ -25,8 +25,7 @@ This project implements the **Command Design Pattern** with the following compon
 - **Maintainability**: Clean separation of concerns between command logic and device logic
 
 ## 📊 UML Class Diagram
-
-![UML Class Diagram](UML%20Class%20Diagram.png)
+<img width="1940" height="1416" alt="UML Class Diagram" src="https://github.com/user-attachments/assets/8f39363b-e7d9-4825-a848-b8d352c53089" />
 
 The following diagram illustrates:
 - The architecture of the Smart Home Automation system
